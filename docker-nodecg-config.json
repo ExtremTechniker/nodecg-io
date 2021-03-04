@@ -1,0 +1,5 @@
+{
+    "bundles": {
+        "paths": ["/opt/nodecg/nodecg-io", "/opt/nodecg/nodecg-io/samples"]
+    }
+}
